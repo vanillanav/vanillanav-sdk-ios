@@ -1,0 +1,19 @@
+PODS:
+  - VanillaNavSDK (0.1)
+
+DEPENDENCIES:
+  - VanillaNavSDK (from `https://github.com/vanillanav/vanillanav-sdk-ios.git`)
+
+EXTERNAL SOURCES:
+  VanillaNavSDK:
+    :git: https://github.com/vanillanav/vanillanav-sdk-ios.git
+
+CHECKOUT OPTIONS:
+  VanillaNavSDK:
+    :commit: 0f575497d4f325fa5fefdc43cab9a895bf2faacc
+    :git: https://github.com/vanillanav/vanillanav-sdk-ios.git
+
+SPEC CHECKSUMS:
+  VanillaNavSDK: dac49c9b6cab20b8fc72a4c041c508fb5e580a20
+
+COCOAPODS: 0.39.0

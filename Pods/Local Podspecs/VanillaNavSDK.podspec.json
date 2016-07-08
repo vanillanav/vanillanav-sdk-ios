@@ -1,0 +1,21 @@
+{
+  "name": "VanillaNavSDK",
+  "version": "0.1",
+  "summary": "VanillaNavSDK",
+  "homepage": "http://vanillanav.com",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Danilov Dorin": "d.danilov@rosoftlab.net"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://github.com/vanillanav/vanillanav-sdk-ios.git",
+    "tag": "0.1"
+  },
+  "source_files": "vanillanav-sdk-ios/**/*.swift"
+}

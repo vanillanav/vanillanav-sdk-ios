@@ -1,0 +1,6 @@
+framework module VanillaNavSDK {
+  umbrella header "VanillaNavSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
